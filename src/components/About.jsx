@@ -39,16 +39,22 @@ const About = () => {
       </motion.div>
       <div className="center hidden sm:block">
         <div id="pic1" className="imagecontainer">
-          <img src="/public/editor_20230305_93901.jpg" alt="image" />
+          <img
+            src="/public/Personal Images/editor_20230305_93901.jpg"
+            alt="image"
+          />
         </div>
         <div id="pic2" className="imagecontainer">
-          <img src="/public/IMG-20230513-WA0028.jpg" alt="image" />
+          <img
+            src="/public/Personal Images/IMG-20230513-WA0028.jpg"
+            alt="image"
+          />
         </div>
         <div id="pic3" className="imagecontainer">
-          <img src="/public/IMG_4413~3.jpg" alt="image" />
+          <img src="/public/Personal Images/IMG_4413~3.jpg" alt="image" />
         </div>
         <div id="pic4" className="imagecontainer">
-          <img src="/public/IMG_5129.jpg" alt="image" />
+          <img src="/public/Personal Images/IMG_5129.jpg" alt="image" />
         </div>
       </div>
     </div>
