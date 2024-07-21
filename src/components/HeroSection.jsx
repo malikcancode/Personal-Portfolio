@@ -43,7 +43,7 @@ const HeroSection = () => {
         <img
           id="sheryImage"
           className="max-w-full h-auto object-cover hidden sm:block"
-          src="/public/Personal Images/pic.png"
+          src="/assets/pic.png"
           alt=""
         />
       </div>
